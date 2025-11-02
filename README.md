@@ -80,10 +80,11 @@ cd C:\Users\Asus\Desktop\orgzaar\orgzaar-api
 
 # virtual environment aktif et (manuel çalıştırma için)
 venv\Scripts\activate
-![Ekran Görüntüsü](ss/4.jpg)
+
 
 
 # testleri çalıştır
 python -m pytest test_app.py -v
+![Ekran Görüntüsü](ss/4.jpg)
 ```
 
