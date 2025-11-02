@@ -85,6 +85,6 @@ venv\Scripts\activate
 
 # testleri çalıştır
 python -m pytest test_app.py -v
-![Ekran Görüntüsü](ss/4.jpg)
-```
 
+```
+![Ekran Görüntüsü](ss/4.jpg)
