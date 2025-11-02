@@ -1,0 +1,23 @@
+# python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# pytest
+.pytest_cache/
+
+# logs
+*.log
+
+# ide
+.vscode/
+.idea/
+
+# env
+.env
+
+# docker
+*.log
