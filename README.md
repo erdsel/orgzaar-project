@@ -65,7 +65,12 @@ uygulamayı çalıştırdıktan sonra:
 
 - **swagger ui:** http://localhost:5000/swagger
 - **hizmetler listesi:** http://localhost:5000/api/v1/services
+- ![Ekran Görüntüsü](ss/1.jpg)
 - **rezervasyon oluştur:** http://localhost:5000/api/v1/bookings (POST)
+- ![Ekran Görüntüsü](ss/2.jpg)
+- ![Ekran Görüntüsü](ss/3.jpg)
+
+
 
 ## testleri çalıştırma
 
@@ -75,6 +80,8 @@ cd C:\Users\Asus\Desktop\orgzaar\orgzaar-api
 
 # virtual environment aktif et (manuel çalıştırma için)
 venv\Scripts\activate
+![Ekran Görüntüsü](ss/4.jpg)
+
 
 # testleri çalıştır
 python -m pytest test_app.py -v
